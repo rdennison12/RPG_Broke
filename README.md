@@ -6,3 +6,4 @@
 * Begin impelmenting "Click-To-Move"
 * Completed ("Click-To-Move") Basic movement
 * Begin separating Control Layer
+* Begin building Combat controls
