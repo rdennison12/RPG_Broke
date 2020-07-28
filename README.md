@@ -10,3 +10,4 @@
 * Cancel Combat with Movement
 * Begin decoupling dependencies
 * Add initial attack animation
+* Trigger attack once ever second
