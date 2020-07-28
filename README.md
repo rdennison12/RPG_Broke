@@ -9,3 +9,4 @@
 * Begin building Combat controls
 * Cancel Combat with Movement
 * Begin decoupling dependencies
+* Add initial attack animation
