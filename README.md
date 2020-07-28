@@ -8,3 +8,4 @@
 * Begin separating Control Layer
 * Begin building Combat controls
 * Cancel Combat with Movement
+* Begin decoupling dependencies
