@@ -10,4 +10,5 @@
 * Cancel Combat with Movement
 * Begin decoupling dependencies
 * Add initial attack animation
-* Trigger attack once ever second
+* Trigger attack once ever second - in code
+* Renamed Player Prefab and created variants for Player and Enemy
