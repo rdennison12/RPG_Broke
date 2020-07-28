@@ -12,3 +12,4 @@
 * Add initial attack animation
 * Trigger attack once ever second - in code
 * Renamed Player Prefab and created variants for Player and Enemy
+* Completed initial basic combat
