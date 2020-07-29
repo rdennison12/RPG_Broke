@@ -13,3 +13,5 @@
 * Trigger attack once ever second - in code
 * Renamed Player Prefab and created variants for Player and Enemy
 * Completed initial basic combat
+* Begin building the AI Controller
+* Added chase functionality for the AI Controller
