@@ -1,7 +1,8 @@
 # RPG
 
 ## Commits
-* Initial commit - Repo created 
+
+* Initial commit - Repo created
 * Added project to source control
 * Begin impelmenting "Click-To-Move"
 * Completed ("Click-To-Move") Basic movement
@@ -16,3 +17,5 @@
 * Begin building the AI Controller
 * Added chase functionality for the AI Controller
 * Created swappable control systems
+* Disable control when dead
+* Draw Gizmos for debugging
