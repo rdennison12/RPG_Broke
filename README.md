@@ -19,3 +19,4 @@
 * Created swappable control systems
 * Disable control when dead
 * Draw Gizmos for debugging
+* Added Suspicion Behaviour to AI Controller
