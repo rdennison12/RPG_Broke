@@ -22,3 +22,5 @@
 * Added Suspicion Behaviour to AI Controller
 * Begin adding Waypoints
 * Completed initial AI Controller configurations
+* Adjusted sandbox Scene
+* Created water texture
