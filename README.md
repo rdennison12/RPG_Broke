@@ -18,3 +18,11 @@
 * Created swappable control systems
 * Disable control when dead
 * Draw Gizmos for debugging
+* Added Suspicion Behaviour to AI Controller
+* Begin adding Waypoints
+* Complieted initial AI Controller configutations
+* Adjusted sandbox scene
+* Created water texture
+* Fixed Conflicts on master
+* Rebulit project to fix a bug
+
