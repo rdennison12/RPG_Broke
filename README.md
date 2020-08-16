@@ -24,5 +24,6 @@
 * Adjusted sandbox scene
 * Created water texture
 * Fixed Conflicts on master
-* Rebulit project to fix a bug
+* Rebuliding project to fix a bug
+* Project rebuild complete
 
