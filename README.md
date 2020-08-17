@@ -26,4 +26,4 @@
 * Fixed Conflicts on master
 * Rebuliding project to fix a bug
 * Project rebuild complete
-
+* Tweaked Enemy patrol
