@@ -27,3 +27,4 @@
 * Rebuliding project to fix a bug
 * Project rebuild complete
 * Tweaked Enemy patrol
+* Add Cinimachine Follow Camera
